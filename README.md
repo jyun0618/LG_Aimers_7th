@@ -1,0 +1,2 @@
+# LG_Aimers_7th
+LG Aimers 7기 [식음업장 메뉴 수요 예측 AI 온라인 해커톤]
